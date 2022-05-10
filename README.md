@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **NumPy, Matplotlib, Pandas**
 
-- 📫 How to reach me **syed.mostak@yahoo.com** | **+880 1771657264**
+- 📫 How to reach me **syed.mostak@yahoo.com** | **+8801771657264**
 
 - 📄 Know about my experiences 👉 [Resume](https://mmmostak.github.io/resume)
 
